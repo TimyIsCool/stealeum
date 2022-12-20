@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Stealeum Core
+Comment=Stealeum P2P Cryptocurrency
+Comment[de]=Verbinde mit dem Stealeum peer-to-peer Netzwerk
+Comment[fr]=Stealeum, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Stealeum, eşten eşe kriptografik sanal para birimi
+Exec=stealeum-qt %u
+Terminal=false
+Type=Application
+Icon=stealeum128
+MimeType=x-scheme-handler/stealeum;
+Categories=Office;Finance;

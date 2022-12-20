@@ -1,0 +1,6 @@
+usr/local/bin/stealeum-qt usr/bin
+share/pixmaps/stealeum32.xpm usr/share/pixmaps
+share/pixmaps/stealeum16.xpm usr/share/pixmaps
+share/pixmaps/stealeum128.png usr/share/pixmaps
+debian/stealeum-qt.desktop usr/share/applications
+debian/stealeum-qt.protocol usr/share/kde4/services/

@@ -1,0 +1,22 @@
+[Unit]
+Description=Stealeum's distributed currency daemon
+After=network.target
+
+[Service]
+User=stealeumcore
+Group=stealeumcore
+
+Type=forking
+PIDFile=/var/lib/stealeumd/stealeumd.pid
+ExecStart=/usr/bin/stealeumd -daemon -pid=/var/lib/stealeumd/stealeumd.pid \
+-conf=/etc/stealeumcore/stealeum.conf -datadir=/var/lib/stealeumd -disablewallet
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target
