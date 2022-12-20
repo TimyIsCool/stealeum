@@ -1,28 +1,16 @@
 
 What is Stealeum?
 -------------
-It is a coin developed by myself (timy_g) and our official logo is by https://www.instagram.com/foxpaws_foxywarrior111/ This is mostly for fun and experience. I made it to understand and learn how a blockchain works and is for learning. **Do not expect to make money from this. Any profits made are not intended. I am not liable for ANY losses that may occur.**
+Stealeum is another GR coin, but this is for me to learn about blockchains since Thooneum took off cant exactly test on it so have a new coiN! **Do not expect to make money from this. Any profits made are not intended. I am not liable for ANY losses that may occur.**
 
 Official resources
 -------------
-##### Official Pool: http://rtm.timyg.org/
-##### Official Explorer: http://rtm.timyg.org:6950/
-##### Download: Download: https://github.com/TimyIsCool/stealeum/releases
+##### Official Pool: 
+##### Official Explorer: 
+##### Download: Download: 
 
 
-Introduction
-Stealeum began as the fairly simple idea, introducing smart contracts which would allow on chain, trustless transfers (goodbye centralized marketplaces) on the Ravencoin codebase, however with the automation of assets and THOON (Stealeum). 
-The project has quickly evolved, adding innovative features that not only further expand the asset layer, but also introduce features that could help other Blockchain projects. Ravencoin unfortunately suffered several serious breaches of its asset layer so that code base has been abandoned by us. We are currently working with and building on Dash code expending its capabilities significantly.
-
-Stealeum is now a code fork of Dash and inherits current and optionally future features such as chain locks, oracles etc. We are further expanding capabilities by adding the following features:
-A)	The deployment of a unique asset layer.
-B)	The option to lock X amount of coins or assets into a special transaction. Coins are unlocked at a block number of choice or timestamp.
-C)	Trustless on chain transfers of assets and native coins VIA Smart Contracts.
-D)	Integrating, developing and deploying a VM protocol that would allow for smart contracts in 4 major programming languages as opposed to the situation with Ethereum being limited to solidity.
-
-These additional features open up the power and ease of use of Stealeum’s features to a greater variety of industries under the Distributed Application umbrella. DAPP's are a critical part of driving widespread adoption as recently seen with DEFI and Stealeum hopes to help provide further alternatives and possibilities for DAPP developers particularly in the field of opening up new programming languages for DAPP and contract development.
-
-It is one of our goals to not only innovate ideas for Stealeum but to contribute back to the general crypto community with open-source features that anybody can use to help their Blockchain projects succeed.
+You should know what this says at this point, this is just another GR coin, but based off of Thoon!
 
 
 License
@@ -35,7 +23,7 @@ Development Process
 -------------------
 
 The `master` branch is meant to be stable. Development is done in separate branches.
-[Tags](https://github.com/CarterSullivan/stealeum/tags) are created to indicate new official,
+[Tags](https://github.com/TimyIsCool/stealeum/tags) are created to indicate new official,
 stable release versions of Stealeum Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
